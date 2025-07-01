@@ -12,3 +12,4 @@
 ### Nilai Awal (NA1)
 ### Nilai Nilai (NN)
 ### Nilai Inti (NI)
+### Nilai Waktu (NW)
