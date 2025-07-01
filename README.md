@@ -1,6 +1,6 @@
 # METABRANI
 ## Metode Evaluasi Tinggi Atas Bawah Rendah Awal Nilai Inti
-### Barter Nilai (BN)
+### Wong Sing Barter Nilai (WSBN)
 ### Kode Profit (KP)
 ### Kode Profit Nilai Strategis (KS)
 ### Kode Profit Nilai Yang Jelas (KJ)
