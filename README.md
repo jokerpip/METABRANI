@@ -13,3 +13,6 @@
 ### Nilai Nilai (NN)
 ### Nilai Inti (NI)
 ### Nilai Waktu (NW)
+### Nilai Perbedaan (NP)
+### Nilai Kejutan Atas (NKA)
+### Nilai Kejutan Bawah (NKB)
