@@ -14,5 +14,5 @@
 ### Nilai Inti (NI)
 ### Nilai Waktu (NW)
 ### Nilai Perbedaan (NP)
-### Nilai Kejutan Atas (NKA)
-### Nilai Kejutan Bawah (NKB)
+### Nilai Kejutan Atas (NKA) framing effect
+### Nilai Kejutan Bawah (NKB) framing effect
