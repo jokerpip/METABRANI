@@ -18,3 +18,5 @@
 ### Nilai Kejutan Atas (NKA) framing effect
 ### Nilai Kejutan Bawah (NKB) framing effect
 ### Teritori Harga (TH)
+### Benteng Harga (BH)
+### Koboi // Koboi adalah sebutan yang diberikan kepada orang yang bisa koding dan trader di rumah digital yang berada di Puncak Lembah.
