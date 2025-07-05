@@ -1,11 +1,10 @@
 # KOBOI DIGITAL PUNCAK LEMBAH
-## Metode Evaluasi Tinggi Atas Bawah Rendah Awal Nilai Inti
-## Metode Awal Inti Nilai Tinggi Rendah Atas Bawah
+## MAINTRAB Metode Awal Inti Nilai Tinggi Rendah Atas Bawah
 ### Keterangan Uang Dalam Angka (KUDA)
 ### Kode Profit (KP)
-### Kode Profit Nilai Strategis (KS)
-### Kode Profit Nilai Yang Jelas (KJ)
-### Kode Profit Nilai Yang Tidak Jelas (KYJ)
+### Kode Strategis (KS)
+### Kode Jelas (KJ)
+### Kode Ambigu (KA)
 ### Nilai Tinggi (NT)
 ### Nilai Atas (NA)
 ### Nilai Bawah (NB)
