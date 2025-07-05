@@ -1,6 +1,7 @@
-# METABRANI
+# METABRANI PUNCAK LEMBAH
 ## Metode Evaluasi Tinggi Atas Bawah Rendah Awal Nilai Inti
-### Wong Sing Barter Nilai (WSBN)
+## Metode Awal Inti Nilai Tinggi Rendah Atas Bawah
+### Keterangan Uang Dalam Angka (KUDA)
 ### Kode Profit (KP)
 ### Kode Profit Nilai Strategis (KS)
 ### Kode Profit Nilai Yang Jelas (KJ)
