@@ -17,3 +17,4 @@
 ### Nilai Perbedaan (NP)
 ### Nilai Kejutan Atas (NKA) framing effect
 ### Nilai Kejutan Bawah (NKB) framing effect
+### Teritori Harga (TH)
