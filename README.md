@@ -1,4 +1,4 @@
-# METABRANI PUNCAK LEMBAH
+# KOBOI DIGITAL PUNCAK LEMBAH
 ## Metode Evaluasi Tinggi Atas Bawah Rendah Awal Nilai Inti
 ## Metode Awal Inti Nilai Tinggi Rendah Atas Bawah
 ### Keterangan Uang Dalam Angka (KUDA)
@@ -19,4 +19,4 @@
 ### Nilai Kejutan Bawah (NKB) framing effect
 ### Teritori Harga (TH)
 ### Benteng Harga (BH)
-### Koboi // Koboi adalah sebutan yang diberikan kepada orang yang bisa koding dan trader di rumah digital yang berada di Puncak Lembah.
+### Koboi Digital (KD)
