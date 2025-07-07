@@ -19,3 +19,11 @@
 ### Teritori Harga (TH)
 ### Benteng Harga (BH)
 ### Koboi Digital (KD)
+
+Open High Low Close
+Jarak antara Awal ke tinggi (Open -> High), (Open -> Low), (Open -> Close), (Low -> High), (Close -> High), (Close -> Low)
+Jarak antara Awal ke Rendah Open -> Low
+Jarak antara Awal ke Inti Open -> Close
+Jarak antara Tinggi ke Rendah = Rendah ke Tinggi High -> Low = Low -> High
+Jarak antara Inti ke tinggi Close ke High
+Jarak antara Inti ke rendah Close ke Low
