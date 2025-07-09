@@ -1,10 +1,12 @@
 # KOBOI DIGITAL PUNCAK LEMBAH
 ## MAINTRAB Metode Awal Inti Nilai Tinggi Rendah Atas Bawah
 ### Keterangan Uang Dalam Angka (KUDA)
+Kuda adalah sebutan nama autentik di *Puncak Lembah* yang lebih logis untuk menggambarkan candlestick atau barchart.
 ### Kode Profit (KP)
 ### Kode Strategis (KS)
 ### Kode Jelas (KJ)
 ### Kode Ambigu (KA)
+Kode Ambigu adalah kuda besar yang berada di tengah-tengah, tidak melewati puncak atau melewati lembah
 ### Nilai Tinggi (NT)
 ### Nilai Atas (NA)
 ### Nilai Bawah (NB)
