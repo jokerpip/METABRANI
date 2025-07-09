@@ -7,7 +7,7 @@ Kuda adalah sebutan nama autentik di **Puncak Lembah** yang lebih logis untuk me
 ### Kode Strategis (KS)
 ### Kode Jelas (KJ)
 ### Kode Ambigu (KA)
-Kode Ambigu adalah kuda besar yang berada di tengah-tengah, tidak melewati puncak atau melewati lembah
+Kode Ambigu adalah kuda besar yang berada di tengah-tengah, tidak melewati puncak atau melewati lembah. Kuda seringkali memilih probabilitas menuju puncak atau lembah yang ada di dekatnya.
 ### Nilai Tinggi (NT)
 ### Nilai Atas (NA)
 ### Nilai Bawah (NB)
