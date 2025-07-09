@@ -1,8 +1,8 @@
 # KOBOI DIGITAL PUNCAK LEMBAH
 ## MAINTRAB Metode Awal Inti Nilai Tinggi Rendah Atas Bawah
-Maintrab adalah kata kerja, kata keterangan dan peta jalan untuk menjadi koboi digital di **Puncak Lembah**. Koboi di **Puncak Lembah** adalah orang yang kerja dengan alat digital untuk mendapatkan uang, barang dan jasa melalui jaringan internet, khususnya di bidang trading saham, forex dan bitcoin.
+Maintrab adalah kata kerja, kata keterangan dan peta jalan untuk menjadi koboi digital di **Puncak Lembah**. Koboi Digital di **Puncak Lembah** adalah orang yang kerja dengan alat digital untuk mendapatkan uang, barang dan jasa melalui jaringan internet, khususnya di bidang trading saham, forex dan bitcoin. Dari kata **Maintrab** penulis menyusun buku panduan untuk menjelajahi dunia perdagangan di instrumen keuangan. Bisa dikatakan **Maintrab** adalah filosofi dari **Puncak Lembah**.
 ### Keterangan Uang Dalam Angka (KUDA)
-Kuda adalah sebutan nama autentik di *Puncak Lembah* yang lebih logis untuk menggambarkan candlestick atau barchart.
+Kuda adalah sebutan nama autentik di **Puncak Lembah** yang lebih logis untuk menggambarkan candlestick atau barchart.
 ### Kode Profit (KP)
 ### Kode Strategis (KS)
 ### Kode Jelas (KJ)
