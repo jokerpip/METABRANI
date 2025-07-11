@@ -33,3 +33,5 @@ Jarak antara Inti ke rendah Close ke Low
 
 ## Framing Tindakan
 Jika Anda bertahun-tahun menargetkan persentase pertumbuhan, tetapi tidak mentaati pembatasan kerugian, cobalah saatnya mengganti tindakan dan pemrograman. Taati untuk menerapkan batas rugi 3.53% perhari dari pada target 3.53% perhari. Sebab keuntungan 10% perhari akan kalah jika tidak menerapkan kepastian batas kerugian. Batas kerugian yang diangan-angan sering kali menipu diri sendiri karena sifat dasar mayoritas orang menghindari kerugian dan kesakitan sesaat yang ada di bayangannya. Ingat kisah *Koboi* dalam duel *Wild West* di *Main Street* dekat kandang kuda.
+
+https://x.com/i/grok?conversation=1943681559502188888
