@@ -42,3 +42,14 @@ Jika Anda bertahun-tahun menargetkan persentase pertumbuhan, tetapi tidak mentaa
 https://x.com/i/grok?conversation=1943681559502188888
 
 https://x.com/i/grok?conversation=1944280202788888888
+
+## Anda tidak dapat memperbaiki apa yang tidak dapat Anda ukur. 
+
+| Emosi saat entry | Emosi saat exit | Disiplin (1-10) | Overtrade? | Ikuti rencana? | Catatan psikologi                        |
+| ---------------- | --------------- | --------------- | ---------- | -------------- | --------------------------------------- |
+| Tenang           | Tenang          | 9               | Tidak      | Ya             | Percaya pada setup, tidak FOMO.         |
+| Gugup            | Kecewa          | 5               | Ya         | Tidak          | Masuk terlalu cepat, terpengaruh FOMO. |
+| Yakin            | Puas            | 8               | Tidak      | Ya             | Sabar, ikuti plan saat pullback.        |
+| Panik           | Kecewa          | 4               | Ya         | Tidak          | Close terlalu cepat karena takut rugi. |
+| Bosan            | Netral          | 6               | Tidak      | Ya             | Entry sesuai rencana, kurang semangat.  |
+
