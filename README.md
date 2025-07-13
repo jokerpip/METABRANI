@@ -6,6 +6,8 @@ Maintrab adalah kata kerja, kata keterangan dan peta jalan untuk menjadi koboi d
 Kuda adalah sebutan nama autentik di **Puncak Lembah** yang lebih logis untuk menggambarkan candlestick atau barchart. Kuda adalah simbolis naik turunnya harga sebuah nilai mata uang yang disediakan oleh ekosistem broker.
 ### Koboi Digital (KD)
 Koboi Digital adalah sebutan seseorang petualang dunia keuangan digital di **Puncak Lembah**, yang menunggangi kuda pasar untuk mengejar peluang kebebasan finansial di tengah risiko.
+### Asosiasi Kognitif
+Menggunakan bahasa metafora agar para Koboi Digital (trader) lebih mudah mengasosiasikan sebuah holistik pasar keuangan digital. Agar lebih mudah dalam teknik Mind Mapping (peta pikiran) dan teknik Mnemonik.
 ### Kode Profit (KP)
 ### Kode Strategis (KS)
 ### Kode Jelas (KJ)
