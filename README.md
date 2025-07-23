@@ -4,6 +4,7 @@
 Maintrab adalah kata kerja, kata keterangan dan peta jalan untuk menjadi koboi digital di **Puncak Lembah**. Koboi Digital di **Puncak Lembah** adalah orang yang kerja dengan alat digital untuk mendapatkan uang, barang dan jasa melalui jaringan internet, khususnya di bidang trading saham, forex dan bitcoin. Dari kata **Maintrab** penulis menyusun buku panduan untuk menjelajahi dunia perdagangan di instrumen keuangan. Bisa dikatakan **Maintrab** adalah filosofi dari **Puncak Lembah**.
 ### Keterangan Uang Dalam Angka (KUDA)
 Kuda adalah sebutan nama autentik di **Puncak Lembah** yang lebih logis untuk menggambarkan candlestick atau barchart. Kuda adalah simbolis naik turunnya harga sebuah nilai mata uang yang disediakan oleh ekosistem broker.
+### Jejak Aset Raja Angka Nilai (JARAN)
 ### Koboi Digital (KD)
 Koboi Digital adalah sebutan seseorang petualang dunia keuangan digital di **Puncak Lembah**, yang menunggangi kuda pasar untuk mengejar peluang kebebasan finansial di tengah risiko.
 ### Asosiasi Kognitif
@@ -52,4 +53,8 @@ https://x.com/i/grok?conversation=1944280202788888888
 | Yakin            | Puas            | 8               | Tidak      | Ya             | Sabar, ikuti plan saat pullback.        |
 | Panik           | Kecewa          | 4               | Ya         | Tidak          | Close terlalu cepat karena takut rugi. |
 | Bosan            | Netral          | 6               | Tidak      | Ya             | Entry sesuai rencana, kurang semangat.  |
+
+## Memakai nama Joker Pip
+
+Sebelum memakai nama Joker Pip, namanya adalah Jockey Pip, Jockey Pip terinspirasi dari joki trader + fenomena Full Margin.
 
