@@ -1,4 +1,4 @@
-# BURUANGKA
+# PUNCAK LEMBAH - Joker Pip
 **Koboi Digital Puncak Lembah** menuju holistik masa depan yang misterius.
 ## MAINTRAB Metode Awal Inti Nilai Tinggi Rendah Atas Bawah
 Maintrab adalah kata kerja, kata keterangan dan peta jalan untuk menjadi koboi digital di **Puncak Lembah**. Koboi Digital di **Puncak Lembah** adalah orang yang kerja dengan alat digital untuk mendapatkan uang, barang dan jasa melalui jaringan internet, khususnya di bidang trading saham, forex dan bitcoin. Dari kata **Maintrab** penulis menyusun buku panduan untuk menjelajahi dunia perdagangan di instrumen keuangan. Bisa dikatakan **Maintrab** adalah filosofi dari **Puncak Lembah**.
@@ -27,6 +27,7 @@ Kode Ambigu adalah kuda besar yang berada di tengah-tengah, tidak melewati punca
 ### Nilai Kejutan Bawah (NKB) framing effect
 ### Teritori Harga (TH)
 ### Benteng Harga (BH)
+### BUY SELL PIP BUCK dll
 
 
 Open High Low Close
