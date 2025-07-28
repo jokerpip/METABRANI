@@ -59,3 +59,10 @@ https://x.com/i/grok?conversation=1944280202788888888
 
 Sebelum memakai nama Joker Pip, namanya adalah Jockey Pip, Jockey Pip terinspirasi dari joki trader + fenomena Full Margin.
 
+### Bucking Bronco
+
+Bucking bronco adalah istilah yang digunakan untuk menggambarkan seekor kuda yang liar dan sulit dikendalikan, terutama dalam konteks rodeo. Kuda bucking bronco adalah kuda yang dilatih untuk melompat-lompat dan berontak dengan keras ketika seseorang mencoba menungganginya.
+
+Dalam rodeo, bucking bronco adalah salah satu acara yang paling populer, di mana seorang penunggang kuda harus menunggang kuda bucking bronco selama beberapa detik tanpa terjatuh. Acara ini memerlukan keterampilan, kekuatan, dan keseimbangan yang tinggi dari penunggang kuda.
+
+Istilah "bucking bronco" juga dapat digunakan secara metaforis untuk menggambarkan seseorang atau sesuatu yang liar, tidak terkendali, atau sulit diatur.
