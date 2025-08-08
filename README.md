@@ -66,3 +66,13 @@ Bucking bronco adalah istilah yang digunakan untuk menggambarkan seekor kuda yan
 Dalam rodeo, bucking bronco adalah salah satu acara yang paling populer, di mana seorang penunggang kuda harus menunggang kuda bucking bronco selama beberapa detik tanpa terjatuh. Acara ini memerlukan keterampilan, kekuatan, dan keseimbangan yang tinggi dari penunggang kuda.
 
 Istilah "bucking bronco" juga dapat digunakan secara metaforis untuk menggambarkan seseorang atau sesuatu yang liar, tidak terkendali, atau sulit diatur.
+
+## Grafik Kuda Jaran
+
+### Pendahuluan
+
+Grafik Kuda Jaran (GKJ) adalah nama lain dari barchart atau candlestick di dunia keuangan. Puncak Lembah menggunakan GKJ agar pengamat dan pelaku perdagangan (trader) bisa mudah mengasosiasikan pergerakan harga dalam bentuk yang mendekati gambaran dan peristiwa terjadinya pertempuran antara kekuatan beli dan kekuatan jual, layaknya kuda jaran yang menari dan berlari di antara puncak dan lembah, menggambarkan dinamika pasar yang penuh ritme dan arah. 
+
+
+
+
