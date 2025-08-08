@@ -30,6 +30,7 @@ oleh Grant GS-196 dari National Science Foundation .
 Penelitian pertama dilakukan saat penulis muda didukung
 oleh beasiswa musim panas NSF untuk mahasiswa
 sarjana .
+
 Sekarang di Universitas New York .
 Salah satu cara umum untuk mengatasi masalah
 tersebut adalah dengan memberikan tekanan sebanyak
@@ -54,6 +55,7 @@ yang melibatkan munculnya disonansi kognitif , di mana
 ketika perilaku yang tidak sesuai telah ditimbulkan oleh
 subjek , maka perilaku tersebut akan semakin tidak sesuai
 dengan yang diharapkan .
+
 Jadi, jelaslah bahwa dalam kebanyakan situasi,
 semakin besar tekanan yang diberikan , semakin besar
 pula kemungkinan individu akan mematuhinya .
@@ -62,6 +64,7 @@ memunculkan perilaku , semakin sedikit perubahan yang
 terjadi (Festinger & Carlsmith, 1959). Namun, bahkan
 dalam situasi ini, satu elemen penting adalah besarnya
 tekanan eksternal yang diberikan.
+
 Bagaimana seseorang dapat dibujuk untuk melakukan
 sesuatu yang tidak ingin ia lakukan? Pertanyaan ini
 relevan dengan hampir setiap fase kehidupan sosial ,
@@ -69,6 +72,7 @@ mulai dari berhenti di lampu lalu lintas hingga berhenti
 merokok , mulai dari membeli Merek X hingga membeli
 obligasi tabungan, mulai dari mendukung March of Dimes
 hingga mendukung Undang - Undang Hak Sipil.
+
 Meskipun penelitian yang ketat tentang masalah ini
 agak jarang, bidang periklanan, propaganda, politik, dll.,
 sama sekali tidak lepas dari teknik yang dirancang untuk
@@ -79,12 +83,14 @@ sama). Satu asumsi tentang kepatuhan yang sering dibuat
 baik secara eksplisit maupun implisit adalah bahwa begitu
 seseorang dibujuk untuk mematuhi permintaan kecil , ia
 cenderung akan mematuhi permintaan yang lebih besar .
+
 Ini adalah prinsip yang umumnya disebut sebagai teknik
 gradasi atau teknik foot-in-lhc-door dan tercermin dalam
 pepatah bahwa jika Anda " memberi mereka satu inci,
 mereka akan mengambil satu mil." Misalnya , itu
 seharusnya menjadi salah satu teknik dasar yang menjadi
 dasar taktik cuci otak Korea.
+
 Akan tetapi, ada kalanya karena alasan etika, moral, atau
 praktis sulit untuk menerapkan banyak tekanan ketika
 tujuannya adalah untuk menghasilkan kepatuhan dengan
@@ -94,6 +100,7 @@ disonansi . Dan bahkan ketika tekanan yang sangat besar
 mungkin terjadi, tetap penting untuk memaksimalkan
 kepatuhan yang dihasilkannya. Dengan demikian, faktorfaktor selain tekanan eksternal sering kali cukup penting
 dalam menentukan tingkat kepatuhan . Apa saja faktorfaktor ini ?
+
 2
 KEPATUHAN TANPA TEKANAN:
 1
@@ -110,6 +117,7 @@ bukti berasal dari studi kesesuaian
 Subjek kinerja telah dihubungi
 METODE
 memengaruhi.
+
 Prediksi yang diuraikan di atas telah diuji di lapangan
 pertama ada lebih banyak kesesuaian total terhadap
 dibuat (Kondisi pengenalan) ; atau setelah tidak ada
@@ -170,7 +178,9 @@ kartu yang menyatakan dia tidak menginginkan produk tersebut .
 subjek dihadapkan pada kelompok yang salah
 identik dengan kelompok Kinerja kecuali mereka tidak diberi
 kesempatan
-kepatuhan. Karena pentingnya persetujuan dan keakraban
+kepatuhan. 
+
+Karena pentingnya persetujuan dan keakraban
 pada dasarnya tidak diketahui , harapannya adalah bahwa
 kondisi Setuju - Saja dan Keakraban akan
 efek urutan terjadi karena, seperti yang dikatakan penulis
@@ -227,6 +237,7 @@ semua subjek yang dihubungi untuk permintaan
 kecil disertakan dalam data untuk kelompok tersebut .
 * J> < .07.
 '=i p < .02.
+
 TABEL 1
 PERMINTAAN BESAR DALAM EKSPERIMEN t
 Pertunjukan
@@ -256,6 +267,7 @@ orang yang sama setiap saat. Panggilan hanya dilakukan di pagi
 hari. Untuk tiga kelompok yang dihubungi dua kali , panggilan
 pertama dilakukan pada hari Senin atau Selasa dan yang kedua
 selalu 3 hari kemudian .
+
 Pengenalan
 Satu Kontak
 Semua permintaan besar diajukan pada hari Kamis atau Jumat .
@@ -265,6 +277,7 @@ Group. Dalam kondisi Kinerja , ia kemudian melanjutkan :
 Kondisi ketiga disertakan untuk memeriksa pentingnya keakraban
 subjek yang lebih besar dengan eksperimenter dalam kondisi dua
 kontak .
+
 Dalam kondisi ini , peneliti memperkenalkan dirinya , menjelaskan
 organisasi tempat ia bekerja dan survei yang sedang dilakukan,
 mencantumkan pertanyaan yang diajukannya , dan kemudian
@@ -274,6 +287,7 @@ subjek -subjek ini dihubungi , menghabiskan waktu di telepon
 dengan peneliti sebanyak yang dilakukan oleh subjek Kinerja ,
 mendengar semua pertanyaan , tetapi tidak ada yang setuju untuk
 menjawabnya maupun menjawabnya.
+
 Kami menghubungi Anda pagi ini untuk menanyakan apakah
 Anda bersedia menjawab sejumlah pertanyaan tentang produk
 rumah tangga yang Anda gunakan sehingga kami dapat
@@ -285,6 +299,7 @@ menyetujui permintaan atau bahkan menutup telepon sebelum
 permintaan dibuat . Setiap subjek yang menjawab telepon
 dimasukkan dalam analisis hasil dan dihubungi untuk permintaan
 kedua terlepas dari tingkat kerja samanya .
+
 selama kontak pertama . Dengan kata lain , tidak ada subjek yang
 dapat dihubungi sebanyak jumlah yang tepat yang dibuang dari
 salah satu dari keempat kondisi tersebut .
@@ -308,6 +323,7 @@ mengumpulkan nama-nama orang yang bersedia berpartisipasi
 dan bahwa ia akan dihubungi jika diputuskan untuk menggunakan
 dirinya dalam survei . Jika ia tidak setuju , ia akan diberi ucapan
 terima kasih atas waktunya. Hal ini mengakhiri percobaan .
+
 PKRCKNTAOE pada SUBYEK YANG MEMATUHI
 :
 Kondisi
@@ -329,6 +345,7 @@ Sayangnya , harus diakui bahwa
 dirancang untuk menilai. Kedua kondisi tersebut berada di
 perjanjian itu sendiri dapat menghasilkan sebagian dari
 efeknya .
+
 YONATHAN
 kondisi). Seperti yang dapat dilihat pada Tabel 1,
 mereka; di sisi lain, ada seseorang yang menelepon untuk memberi tahu
@@ -798,3 +815,7 @@ dirancang untuk menjual produk tertentu, politik
 penelitian tidak menawarkan data tambahan untuk
 penelitian yang digunakan mungkin merupakan sebuah
 Machine Translated by Google
+
+## Psikologi Trading saat floating
+
+Keunggulan Anda bukanlah strategi Anda, melainkan kemampuan Anda untuk menjalankan strategi itu saat emosi Anda berteriak meminta Anda berhenti.
