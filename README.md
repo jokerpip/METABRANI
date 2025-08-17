@@ -73,6 +73,26 @@ Istilah "bucking bronco" juga dapat digunakan secara metaforis untuk menggambark
 
 Grafik Kuda Jaran (GKJ) adalah nama lain dari barchart atau candlestick di dunia keuangan. Puncak Lembah menggunakan GKJ agar pengamat dan pelaku perdagangan (trader) bisa mudah mengasosiasikan pergerakan harga dalam bentuk yang mendekati gambaran dan peristiwa terjadinya pertempuran antara kekuatan beli dan kekuatan jual, layaknya kuda jaran yang menari dan berlari di antara puncak dan lembah, menggambarkan dinamika pasar yang penuh ritme dan arah. 
 
+# UQALEO
+
+<details>
+  <summary>
+    <i>Kata Harta Karun</i>
+  </summary>
+  <p>
+    Setiap bulan ada momentum bagus, dimana ada salah satu hari, grafiknya membentuk pola yang mudah dibaca dan diikuti, itu adalah kesempatan untuk meraih profit yang optimal.
+  </p>
+	<p> "La paciencia es amarga, pero su fruto es dulce". – Aristóteles
+</p>
+
+<details>
+  <summary>Klik untuk melihat detail</summary>
+  <p>Ini adalah teks yang tersembunyi hingga diklik.</p>
+  <p>"Kesabaran adalah kunci." – Anonim</p>
+  <p>"Kesabaran itu pahit, tapi buahnya manis." – Aristóteles</p>
+</details>
+
+
 
 
 
